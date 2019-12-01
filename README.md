@@ -1,4 +1,5 @@
 # tech-event-slides
+All the talks with links to the recordings and description can be found here: [b3a.dev/talks](https://b3a.dev/talks/)
 
 ### 2019
 *  Thursday, Feb 28 / DevOps Spain / [Cloud-native Monitoring with Prometheus](https://github.com/b3a-dev/tech-event-slides/blob/master/2019/2019_devOpsSpain_Cloud_Native_Monitoring_With_Prometheus.pdf)
